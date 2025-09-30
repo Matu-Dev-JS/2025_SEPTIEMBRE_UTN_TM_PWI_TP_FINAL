@@ -1,4 +1,4 @@
-import './WhatsAppSpinner.css';
+import './WhatsappSpinner.css';
 
 export default function WhatsAppSpinner({
     size = 40,
